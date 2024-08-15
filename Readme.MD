@@ -1,8 +1,8 @@
-# 🏢 Hall Booking App API
+#  Hall Booking App API
 
 Welcome to the Hall Booking App API! This API is designed to manage hall reservations, providing various endpoints for creating rooms, booking rooms, and retrieving booking details.
 
-## 🔗 Key Features
+##  Key Features
 
 1. **Create Room**
    - **Endpoint:** `POST /api/hallbooking/createroom`
@@ -19,15 +19,15 @@ Welcome to the Hall Booking App API! This API is designed to manage hall reserva
 5. **Details of Customer Booking**
    - **Endpoint:** `GET /api/hallbooking/getcustomerbyid/:customerId`
 
-## 🚀 Technologies Used
+## Technologies Used
 
 - **Node.js**: JavaScript runtime environment
 - **Express**: Web application framework for Node.js
 
-## 📝 Postman Documentation
+## Postman Documentation
 
 Explore and test the endpoints using [Postman](https://documenter.getpostman.com/view/37039136/2sA3s7i8my#intro).
 
-## 🤝 Connect with Me
+##  Connect with Me
 
 💼 **LinkedIn:** [Balamurugan A](https://www.linkedin.com/in/dinesh-kumar-2565191b4/)
