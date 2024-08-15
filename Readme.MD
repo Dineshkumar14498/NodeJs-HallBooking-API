@@ -30,4 +30,4 @@ Explore and test the endpoints using [Postman](https://documenter.getpostman.com
 
 ##  Connect with Me
 
-💼 **LinkedIn:** [Balamurugan A](https://www.linkedin.com/in/dinesh-kumar-2565191b4/)
+💼 **LinkedIn:** (https://www.linkedin.com/in/dinesh-kumar-2565191b4/)
